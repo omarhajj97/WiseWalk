@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "409371697996",
+    "project_id": "wisewalk-afbee",
+    "storage_bucket": "wisewalk-afbee.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409371697996:android:f5cc6c922dde0b5f0065e9",
+        "android_client_info": {
+          "package_name": "com.example.wise_walk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotq9XLTTRhv6wG39xmvRuijHn2YgOwY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409371697996:android:da54fbf173b2f64c0065e9",
+        "android_client_info": {
+          "package_name": "com.project.wisewalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCotq9XLTTRhv6wG39xmvRuijHn2YgOwY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
